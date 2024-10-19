@@ -1,1 +1,2 @@
 Hello, this is the user1 branch
+This is an update from the user2 branch
